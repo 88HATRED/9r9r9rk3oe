@@ -5,7 +5,7 @@ This is a Roblox script that includes:
 - Playing a random song
 - Wall walking
 - Red sky and black textures
-
+- find backdoors
 ## How to Use
 Copy the script from the repository and paste it into your Roblox game.
 
@@ -207,4 +207,3 @@ ButtonWallWalk.MouseButton1Click:Connect(enableWallWalking)
 -- Automatic Background Changes
 pcall(setRedSkyAndBlackTextures)
 pcall(findBackdoors)
-
